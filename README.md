@@ -11,5 +11,5 @@ and recipes from the actual mod. Uses they own items (Most of items is from my l
 - Metal Former: https://github.com/TheExotik/IndustrialCraft/assets/97954441/155fe1e1-ae4d-405d-a879-6fb25bbb00c6
 - Mass Fabricator: https://github.com/TheExotik/IndustrialCraft/assets/97954441/e7fcb21f-7aea-4c30-905c-cc809e73d9b0
 - Replicator: https://github.com/TheExotik/IndustrialCraft/assets/97954441/8e4a40cc-1efd-4858-a376-2181ac83a54c
-- Teleporter: https://github.com/TheExotik/IndustrialCraft/assets/97954441/638e47b4-d1a3-4650-b711-e88efe9d4ce7
+- Teleporter: https://github.com/TheExotik/IndustrialCraft/assets/97954441/06f61378-3656-494d-88e2-88fb15b78454
 - Quantum Armor (with debug enabled): https://github.com/TheExotik/IndustrialCraft/assets/97954441/0a6ce3fc-1eb8-4724-b707-b7aaa9bc2d5b
